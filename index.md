@@ -24,14 +24,14 @@
     <h3>RLGym Reinforcement Learning Bot</h3>
     <p>Compared reward function designs for training Rocket League agents using reinforcement learning.</p>
     <p><strong>Topics:</strong> Reinforcement Learning, PPO, Reward Engineering</p>
-    <a href="papers/rlgym-reward-functions.pdf">Read Paper</a>
+    <a href="papers/rlgym-reward-functions.pdf" target="_blank" rel="noopener noreferrer">Read Paper</a>
   </div>
 
   <div class="project-card">
     <h3>Anti-Cheat Privacy Loss Evaluation</h3>
     <p>Designed a privacy-loss scoring framework for major anti-cheat systems.</p>
     <p><strong>Topics:</strong> Ethics, Privacy, Game Security</p>
-    <a href="papers/anti-cheat-privacy-loss.pdf">Read Paper</a>
+    <a href="papers/anti-cheat-privacy-loss.pdf" target="_blank" rel="noopener noreferrer">Read Paper</a>
   </div>
 
   <div class="project-card">
