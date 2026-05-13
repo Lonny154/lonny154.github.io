@@ -1,6 +1,3 @@
-# Daniel Lonneman
-
-Data Science | Machine Learning | Analytics Engineering
 
 ## Projects
 
