@@ -38,7 +38,7 @@
     <h3>Disc Golf Weather Analytics</h3>
     <p>Analyzed how wind, precipitation, and temperature affect professional disc golf putting performance.</p>
     <p><strong>Topics:</strong> Data Engineering, Sports Analytics, Weather Data</p>
-    <a href="https://github.com/Lonny154/Disc-Golf-Pipeline" target="_blank" rel="noopener noreferrer">Read Paper</a>
+    <a href="https://github.com/Lonny154/Disc-Golf-Pipeline" target="_blank" rel="noopener noreferrer">View Project</a>
   </div>
 
 <div class="project-card">
