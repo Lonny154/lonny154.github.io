@@ -1,13 +1,26 @@
 # Daniel Lonneman
 
-Master’s Student in Data Science focused on Machine Learning, Reinforcement Learning, and Analytics Engineering.
+Data Science | Machine Learning | Analytics Engineering
 
 ## Projects
 
-### Rocket League Reinforcement Learning
-Trained PPO-based Rocket League agents using RLGym to compare different reward strategies.
+### Reinforcement Learning Rocket League Bot
+Compared reward function designs in an RLGym-based reinforcement learning project.
 
+### Disc Golf Weather Analytics Pipeline
+Built a data engineering and analytics pipeline connecting PDGA putting data with NOAA weather data.
 
+### Anti-Cheat Privacy Loss Evaluation
+Designed a privacy-risk scoring framework for major anti-cheat systems.
 
-## Papers
+## Research Interests
 
+- Reinforcement learning
+- Data science
+- Physics and machine learning
+- Data engineering
+- Applied analytics
+
+## Contact
+
+GitHub: [Lonny154](https://github.com/Lonny154)
