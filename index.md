@@ -21,38 +21,14 @@
     <h3>Disc Golf Weather Analytics</h3>
     <p>Analyzed how wind, precipitation, and temperature affect professional disc golf putting performance.</p>
     <p><strong>Topics:</strong> Data Engineering, Sports Analytics, Weather Data</p>
-    
+    <a href="papers/disc-golf-weather-analytics.pdf">Read Paper</a>
   </div>
 
-  
+  <div class="project-card">
+    <h3>Machine Learning Portfolio</h3>
+    <p>A collection of applied machine learning projects using Python, scikit-learn, Spark, and data visualization.</p>
+    <p><strong>Topics:</strong> ML, Python, Analytics</p>
+    <a href="projects/machine-learning.html">View Project</a>
+  </div>
 
 </div>
-
-## Papers & Research Projects
-
-### Reinforcement Learning Reward Design in RLGym
-Compared multiple reward function strategies for training Rocket League agents using reinforcement learning.
-
-**Topics:** Reinforcement Learning, PPO, Reward Engineering, RLGym  
-[Read Paper](papers/rlgym-reward-functions.pdf)
-
----
-
-### Privacy Loss Evaluation of Anti-Cheat Systems
-Developed a scoring framework to compare privacy loss across major anti-cheat systems.
-
-**Topics:** Technology Ethics, Privacy, Kernel-Level Anti-Cheat, Risk Scoring  
-[Read Paper](papers/anti-cheat-privacy-loss.pdf)
-
-
-## Research Interests
-
-- Reinforcement learning
-- Data science
-- Physics and machine learning
-- Data engineering
-- Applied analytics
-
-## Contact
-
-GitHub: [Lonny154](https://github.com/Lonny154)
