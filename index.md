@@ -47,7 +47,7 @@
     Built a Python analytics project using a PostgreSQL rental database to answer business questions about customers, films, inventory, and returns.
   </p>
   <p><strong>Topics:</strong> SQL, PostgreSQL, Python, Business Analytics</p>
-  <a href="projects/dvd-rental-analytics.html">View Project</a>
+  <a href="projects/DVD_rental_db">View Project</a>
 </div>
 
 </div>
