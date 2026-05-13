@@ -1,5 +1,22 @@
+<section class="hero">
+  <p class="hero-eyebrow">Data Science • Machine Learning • Analytics Engineering</p>
 
-<h2>Projects & Papers</h2>
+  <h1>Daniel Lonneman</h1>
+
+  <p class="hero-subtitle">
+    Master's student in Data Science focused on applied machine learning,
+    reinforcement learning, data engineering, and research-driven analytics projects.
+  </p>
+
+  <div class="hero-links">
+    <a href="#projects">View Projects</a>
+    <a href="papers/rlgym-reward-functions.pdf">Featured Paper</a>
+    <a href="https://github.com/Lonny154">GitHub</a>
+  </div>
+</section>
+
+
+<h2 id="projects">Projects & Papers</h2>
 
 <div class="project-grid">
 
