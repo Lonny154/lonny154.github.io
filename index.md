@@ -38,7 +38,7 @@
     <h3>Disc Golf Weather Analytics</h3>
     <p>Analyzed how wind, precipitation, and temperature affect professional disc golf putting performance.</p>
     <p><strong>Topics:</strong> Data Engineering, Sports Analytics, Weather Data</p>
-    <a href="papers/disc-golf-weather-analytics.pdf">Read Paper</a>
+    <a href="https://github.com/Lonny154/Disc-Golf-Pipeline" target="_blank" rel="noopener noreferrer">Read Paper</a>
   </div>
 
 <div class="project-card">
@@ -47,7 +47,7 @@
     Built a Python analytics project using a PostgreSQL rental database to answer business questions about customers, films, inventory, and returns.
   </p>
   <p><strong>Topics:</strong> SQL, PostgreSQL, Python, Business Analytics</p>
-  <a href="projects/DVD_rental_db">View Project</a>
+  <a href="https://github.com/Lonny154/dvd-rental-analytics/tree/main" target="_blank" rel="noopener noreferrer">View Project</a>
 </div>
 
 </div>
