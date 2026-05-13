@@ -41,11 +41,13 @@
     <a href="papers/disc-golf-weather-analytics.pdf">Read Paper</a>
   </div>
 
-  <div class="project-card">
-    <h3>Machine Learning Portfolio</h3>
-    <p>A collection of applied machine learning projects using Python, scikit-learn, Spark, and data visualization.</p>
-    <p><strong>Topics:</strong> ML, Python, Analytics</p>
-    <a href="projects/machine-learning.html">View Project</a>
-  </div>
+<div class="project-card">
+  <h3>DVD Rental Database Analytics</h3>
+  <p>
+    Built a Python analytics project using a PostgreSQL rental database to answer business questions about customers, films, inventory, and returns.
+  </p>
+  <p><strong>Topics:</strong> SQL, PostgreSQL, Python, Business Analytics</p>
+  <a href="projects/dvd-rental-analytics.html">View Project</a>
+</div>
 
 </div>
