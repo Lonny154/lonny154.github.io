@@ -1,14 +1,32 @@
 
-## Projects
+<h2>Projects & Papers</h2>
 
-### Reinforcement Learning Rocket League Bot
-Compared reward function designs in an RLGym-based reinforcement learning project.
+<div class="project-grid">
 
-### Disc Golf Weather Analytics Pipeline
-Built a data engineering and analytics pipeline connecting PDGA putting data with NOAA weather data.
+  <div class="project-card">
+    <h3>RLGym Reinforcement Learning Bot</h3>
+    <p>Compared reward function designs for training Rocket League agents using reinforcement learning.</p>
+    <p><strong>Topics:</strong> Reinforcement Learning, PPO, Reward Engineering</p>
+    <a href="papers/rlgym-reward-functions.pdf">Read Paper</a>
+  </div>
 
-### Anti-Cheat Privacy Loss Evaluation
-Designed a privacy-risk scoring framework for major anti-cheat systems.
+  <div class="project-card">
+    <h3>Anti-Cheat Privacy Loss Evaluation</h3>
+    <p>Designed a privacy-loss scoring framework for major anti-cheat systems.</p>
+    <p><strong>Topics:</strong> Ethics, Privacy, Game Security</p>
+    <a href="papers/anti-cheat-privacy-loss.pdf">Read Paper</a>
+  </div>
+
+  <div class="project-card">
+    <h3>Disc Golf Weather Analytics</h3>
+    <p>Analyzed how wind, precipitation, and temperature affect professional disc golf putting performance.</p>
+    <p><strong>Topics:</strong> Data Engineering, Sports Analytics, Weather Data</p>
+    
+  </div>
+
+  
+
+</div>
 
 ## Papers & Research Projects
 
