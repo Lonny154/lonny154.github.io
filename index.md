@@ -50,4 +50,28 @@
   <a href="https://github.com/Lonny154/dvd-rental-analytics/tree/main" target="_blank" rel="noopener noreferrer">View Project</a>
 </div>
 
+<div class="project-card">
+  <h3>CMS Open Data Tau Candidate Analysis</h3>
+  <p>
+    Exploratory data analysis of reconstructed tau candidates using CERN CMS Open Data
+    in NANOAOD format. Analyzed tau transverse momentum, pseudorapidity, and DeepTau
+    tau-vs-jet scores using Python, uproot, awkward arrays, and matplotlib.
+  </p>
+
+  <p class="project-highlight">
+    Key result: 29.6% of tau candidates passed a DeepTau score threshold greater than 0.8.
+  </p>
+
+  <div class="project-tags">
+    <span>Python</span>
+    <span>CMS Open Data</span>
+    <span>Particle Physics</span>
+    <span>uproot</span>
+    <span>awkward</span>
+    <span>EDA</span>
+  </div>
+
+  <a href="YOUR_PROJECT_LINK_HERE" class="project-link">View Project</a>
+</div>
+
 </div>
