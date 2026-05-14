@@ -71,7 +71,7 @@
     <span>EDA</span>
   </div>
 
-  <a href="YOUR_PROJECT_LINK_HERE" class="project-link">View Project</a>
+  <a href="https://github.com/Lonny154/CMS-Open-Data-Tau-Candidate-Analysis/tree/main" class="project-link">View Project</a>
 </div>
 
 </div>
