@@ -20,7 +20,7 @@
 
 <div class="project-grid">
 
-  <div class="project-card project-card-featured">
+  <div class="project-card">
     <h3>RLGym Reinforcement Learning Bot</h3>
     <p>Compared reward function designs for training Rocket League agents using reinforcement learning.</p>
     <p><strong>Topics:</strong> Reinforcement Learning, PPO, Reward Engineering</p>
